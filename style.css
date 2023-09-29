@@ -1,0 +1,11 @@
+#table {
+  border: 1px solid;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  box-sizing: border-box;
+  justify-content: center;
+}
